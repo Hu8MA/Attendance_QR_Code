@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <array name="subjects">
+        <item>Select the Subject</item>
+        <item>Programming basics</item>
+        <item>mathematics</item>
+        <item>Databases</item>
+        <item>Network structures</item>
+    </array>
+
+    <array name="rols">
+        <item>Select the role</item>
+        <item>Student</item>
+        <item>Teacher</item>
+    </array>
+
+
+</resources>
+
