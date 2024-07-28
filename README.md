@@ -1,4 +1,4 @@
-## Student Attendance Management System using QR Code Technology
+# Student Attendance Management System using QR Code Technology
 
 ### Overview 🥇
 
